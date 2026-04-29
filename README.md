@@ -172,7 +172,7 @@ Streamlit App:
 (https://cs4082-machinelearning-project-uwgzoj5cjk3dfs4lvwdnuw.streamlit.app/)
 
 Portfolio Website:
-(file:///Users/aseel/Desktop/ML.proj/portfolioF.html)
+([file:///Users/aseel/Desktop/ML.proj/portfolioF.html](https://aseelmoh.github.io/CS4082-MachineLearning-Project/portfolioF.html))
 
 ---
 
